@@ -1,8 +1,8 @@
-import stepIntoTheChallenge from './assets/shoes/step-into-the-challenge.png'
-import cityRun from './assets/shoes/city-run.png'
-import performanceInMotion from './assets/shoes/performance-in-motion.png'
-import laneOne from './assets/shoes/lane-one.png'
-import everyStep from './assets/shoes/every-step.png'
+import stepIntoTheChallenge from '../images/shoes/step-into-the-challenge.png'
+import cityRun from '../images/shoes/city-run.png'
+import performanceInMotion from '../images/shoes/performance-in-motion.png'
+import laneOne from '../images/shoes/lane-one.png'
+import everyStep from '../images/shoes/every-step.png'
 
 export const shoePosts = [
   {

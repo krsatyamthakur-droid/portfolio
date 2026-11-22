@@ -1,7 +1,7 @@
-import macbook from './assets/laptops/macbook-landscape.webp'
-import dellXps from './assets/laptops/dell-xps-landscape.webp'
-import lenovoThinkpad from './assets/laptops/lenovo-thinkpad-landscape.webp'
-import asusRog from './assets/laptops/asus-rog-landscape.webp'
+import macbook from '../images/laptops/macbook-landscape.webp'
+import dellXps from '../images/laptops/dell-xps-landscape.webp'
+import lenovoThinkpad from '../images/laptops/lenovo-thinkpad-landscape.webp'
+import asusRog from '../images/laptops/asus-rog-landscape.webp'
 
 export const laptopPosts = [
   {

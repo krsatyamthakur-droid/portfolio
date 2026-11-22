@@ -16,5 +16,5 @@ export default defineConfig(({ mode }) => {
     configurePreviewServer: mountContact,
   }
 
-  return { plugins: [react(), contact] }
+  return { publicDir: 'images/public', plugins: [react(), contact] }
 })

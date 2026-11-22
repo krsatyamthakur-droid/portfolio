@@ -1,8 +1,8 @@
-import buildingWhatsNext from './assets/construction/building-whats-next.png'
-import planToPlace from './assets/construction/plan-to-place.png'
-import spacesMadeToLast from './assets/construction/spaces-made-to-last.png'
-import builtByPeople from './assets/construction/built-by-people.png'
-import buildConfidence from './assets/construction/build-confidence.png'
+import buildingWhatsNext from '../images/construction/building-whats-next.png'
+import planToPlace from '../images/construction/plan-to-place.png'
+import spacesMadeToLast from '../images/construction/spaces-made-to-last.png'
+import builtByPeople from '../images/construction/built-by-people.png'
+import buildConfidence from '../images/construction/build-confidence.png'
 
 export const constructionPosts = [
   {

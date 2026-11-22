@@ -1,9 +1,9 @@
-import smarterTomorrow from './assets/conceptual/smarter-tomorrow.png'
-import greenerTomorrow from './assets/conceptual/greener-tomorrow.png'
-import designBeyondLimits from './assets/conceptual/design-beyond-limits.png'
-import yourTimeSupercharged from './assets/conceptual/your-time-supercharged.png'
-import communityThatGrows from './assets/conceptual/community-that-grows.png'
-import unleashCreativity from './assets/conceptual/unleash-creativity.png'
+import smarterTomorrow from '../images/conceptual/smarter-tomorrow.png'
+import greenerTomorrow from '../images/conceptual/greener-tomorrow.png'
+import designBeyondLimits from '../images/conceptual/design-beyond-limits.png'
+import yourTimeSupercharged from '../images/conceptual/your-time-supercharged.png'
+import communityThatGrows from '../images/conceptual/community-that-grows.png'
+import unleashCreativity from '../images/conceptual/unleash-creativity.png'
 
 export const conceptualPosts = [
   {
